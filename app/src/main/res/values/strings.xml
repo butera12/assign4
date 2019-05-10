@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Arm App</string>
+    <string name="Username">username</string>
+    <string name="passsword">passsword</string>
+    <string name="Login">login</string>
+    <string name="not_registered">not registered</string>
+    <string name="register">REGISTER</string>
+    <string name="comfirm_passsword">comfirm passsword</string>
+    <string name="already_registered">already registered</string>
+
+    <string name="successfull">SUCCESSFULL</string>
+
+</resources>
